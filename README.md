@@ -35,4 +35,4 @@ Sending any packet to the controller will respond with "acknowledged" (used for 
 - Utilizes UDP packets to communicate
 - Utilizes the FastLED library for communicating with the LED strip
 - Utilizes ArduinoJSON library for saving the config
-- I have created an android app for sending commands to the controller.
+- I have created an [android app](https://github.com/Fisers/Android-LED-strip-controller-app) for sending commands to the controller.
